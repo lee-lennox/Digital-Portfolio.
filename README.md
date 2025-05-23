@@ -84,6 +84,7 @@ These traits align with roles like:
 Here is my CV, created to showcase my education, skills, and experience in preparation for internship opportunities.
 
 [Resume(ML_KOMANE).pdf](./Resume(ML_KOMANE).pdf)
+Resume(ML KOMANE).pdf
 
 ---
 
