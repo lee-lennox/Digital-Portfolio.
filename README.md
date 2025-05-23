@@ -103,8 +103,8 @@ Here is my CV, created to showcase my education, skills, and experience in prepa
 I submitted my completed CV as part of this digital portfolio on GitHub, and I also plan to use it when applying for internship opportunities.
 
 Proof of submission:
-- 📎 Included in this repository as `Resume(ML_KOMANE).pdf`
-- ✅ Shared with my lecturer via Blackboard as part of the PRP370 digital portfolio assessment
+Included in this repository as `Resume(ML_KOMANE).pdf`
+Shared with my lecturer via Blackboard as part of the PRP370 digital portfolio assessment
 
 ---
 
