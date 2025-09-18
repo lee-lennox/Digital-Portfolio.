@@ -9,7 +9,7 @@ This **Digital Portfolio** showcases my skills, experiences, and reflections tha
 ### 1️⃣ Career Counselling
 
 #### 📝 Evidence
-Although I did not attend formal career counselling sessions, I actively researched ICT career paths on my own. I read books and watched YouTube videos about roles such as software development, cybersecurity, and data analysis.
+Although I did not attend formal career counselling sessions, I actively researched ICT career paths on my own. I read books and watched YouTube videos about roles such as software development, IoT, and data analysis.
 
 **Resources explored:**
 - 📚 *Cracking the Coding Interview* – book for software developer expectations  
@@ -46,7 +46,6 @@ This self-driven exploration helped me understand which roles match my skills an
 **Interests:**
 - 💻 Software Development  
 - 🌐 IoT  
-- 🔒 Cybersecurity  
 - 🤖 Robotics  
 - 💡 Tech Entrepreneurship  
 
@@ -70,7 +69,6 @@ Used online quizzes and self-reflection to identify traits:
 **Suitable Roles:**  
 - 💻 Software Developer  
 - ⚙️ Backend Engineer  
-- 🔒 Cybersecurity Analyst  
 
 #### 💡 Reflection (STAR Technique)
 - **Situation:** Needed to understand personality for career planning  
