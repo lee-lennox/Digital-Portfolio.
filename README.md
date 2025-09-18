@@ -1,109 +1,108 @@
 # 💼 Work Readiness Digital Portfolio
 
-This Work Readiness Digital Portfolio showcases my skills, experiences, and reflections that demonstrate how I meet the required criteria for career preparation in ICT.
+This **Digital Portfolio** showcases my skills, experiences, and reflections that demonstrate how I meet the required criteria for career preparation in ICT.
 
 ---
 
 ## 📂 Sections
 
-### 1. Career Counselling
+### 1️⃣ Career Counselling
 
-#### Evidence
-Although I did not attend formal career counselling sessions, I actively researched ICT career paths on my own. I read books and watched YouTube videos that focused on different roles in the tech industry, such as software development, cybersecurity, and data analysis.
+#### 📝 Evidence
+Although I did not attend formal career counselling sessions, I actively researched ICT career paths on my own. I read books and watched YouTube videos about roles such as software development, cybersecurity, and data analysis.
 
 **Resources explored:**
-- *Cracking the Coding Interview* – book for understanding software developer expectations  
-- YouTube channels: TechWithTim, Amigoscode, Fireship  
-- Online articles on in-demand tech skills and job trends  
+- 📚 *Cracking the Coding Interview* – book for software developer expectations  
+- 🎥 YouTube: TechWithTim, Amigoscode, Fireship  
+- 🌐 Articles on in-demand tech skills and job trends  
 
-This self-driven exploration helped me understand what roles match my skills and interests, and what employers look for in a candidate.
+This self-driven exploration helped me understand which roles match my skills and interests.
 
-#### Reflection (STAR Technique)
-- **Situation:** I wanted to understand the different career options available in ICT but had never attended formal counselling.  
-- **Task:** I needed to find out which career paths fit my skills, personality, and long-term goals.  
-- **Action:** I read ICT career-related books, watched YouTube videos, and researched tech industry trends and job descriptions.  
-- **Result:** I discovered that I’m passionate about software development and aim to grow into a backend or full stack developer. This guided my focus on Java, databases, and web development.
+#### 💡 Reflection (STAR Technique)
+- **Situation:** Wanted to explore ICT career options without formal counselling  
+- **Task:** Identify career paths that fit my skills, personality, and goals  
+- **Action:** Read books, watched videos, researched industry trends  
+- **Result:** Discovered my passion for software development, guiding my focus on Java, databases, and web development  
 
 ---
 
-### 2. Skills and Interests
+### 2️⃣ Skills and Interests
 
-#### Evidence
+#### 📝 Evidence
 
 **Technical Skills:**
-- **Java Programming** – Learned through CPUT coursework and projects like the Online Voting System  
-- **Web Development** – HTML, CSS, JavaScript  
-- **MySQL Databases** – Database design and queries  
-- **Arduino & IoT** – LinkedIn Learning and personal experimentation  
-- **Figma** – UI/UX design for project planning  
+- 💻 **Java Programming** – CPUT coursework and projects like Online Voting System  
+- 🌐 **Web Development** – HTML, CSS, JavaScript  
+- 🗄️ **MySQL Databases** – Design and query writing  
+- 🤖 **Arduino & IoT** – LinkedIn Learning and personal experiments  
+- 🎨 **Figma** – UI/UX design for projects  
 
 **Soft Skills:**
-- Time Management  
-- Research Skills  
-- Team Collaboration  
-- Communication  
+- ⏱️ Time Management  
+- 🔍 Research Skills  
+- 🤝 Team Collaboration  
+- 🗣️ Communication  
 
 **Interests:**
-- Software Development  
-- IoT  
-- Cybersecurity  
-- Robotics  
-- Tech entrepreneurship  
+- 💻 Software Development  
+- 🌐 IoT  
+- 🔒 Cybersecurity  
+- 🤖 Robotics  
+- 💡 Tech Entrepreneurship  
 
-#### Reflection (STAR Technique)
-- **Situation:** Preparing for a future role in tech, I wanted to strengthen technical and personal development skills.  
-- **Task:** Identify and grow skills to be a competitive candidate for software development and related roles.  
-- **Action:** Took LinkedIn Learning courses, completed academic assignments, worked on projects like the Online Voting System, and explored IoT and UI/UX design.  
-- **Result:** Gained confidence in programming and web development; enhanced soft skills like communication and time management.
-
----
-
-### 3. Personality Assessment
-
-#### Evidence
-I explored personality traits through online quizzes, self-reflection, and YouTube content. Key insights:  
-- Enjoy solving complex problems, especially through coding  
-- Prefer structured environments but value creativity  
-- Curious and enjoy learning new technologies  
-- Balanced introversion and teamwork skills  
-
-Suitable roles identified:  
-- Software Developer  
-- Backend Engineer  
-- Cybersecurity Analyst  
-
-#### Reflection (STAR Technique)
-- **Situation:** Needed to understand personality traits for career planning and teamwork.  
-- **Task:** Assess environments and roles that suit me best in ICT.  
-- **Action:** Watched self-assessment videos, completed online personality quizzes, and reflected on study/project habits.  
-- **Result:** Best suited for structured, problem-solving roles like software development; helps guide project and career choices.
+#### 💡 Reflection (STAR Technique)
+- **Situation:** Preparing for a tech role, needed to strengthen skills  
+- **Task:** Grow technical and personal skills to be competitive  
+- **Action:** Completed courses, academic projects, and self-learning  
+- **Result:** Gained confidence in programming, web development, and soft skills  
 
 ---
 
-### 4. Create a CV
+### 3️⃣ Personality Assessment
 
-#### Evidence
-My CV showcases my education, skills, and experience for internship opportunities.  
+#### 📝 Evidence
+Used online quizzes and self-reflection to identify traits:  
+- 🧩 Enjoy solving complex problems  
+- 📏 Prefer structured environments but value creativity  
+- 🌟 Curious and enjoy learning new technologies  
+- 🤝 Balanced introversion with teamwork capability  
 
-[Resume (ML KOMANE).pdf](./Resume(ML%20KOMANE).pdf)
+**Suitable Roles:**  
+- 💻 Software Developer  
+- ⚙️ Backend Engineer  
+- 🔒 Cybersecurity Analyst  
 
-#### Reflection (STAR Technique)
-- **Situation:** Needed a professional CV for my digital portfolio and internships.  
-- **Task:** Design a CV showing education, skills, projects, and goals.  
-- **Action:** Used academic experience, project work, and certificates to write a clean CV, following layout guidelines from tutorials and articles.  
-- **Result:** Created a polished CV highlighting technical and soft skills, ready for internship applications.
+#### 💡 Reflection (STAR Technique)
+- **Situation:** Needed to understand personality for career planning  
+- **Task:** Assess which environments and roles suit me best  
+- **Action:** Online quizzes, self-reflection, YouTube content  
+- **Result:** Works best in structured, problem-solving roles like software development  
 
 ---
 
-### 5. CV Submission
+### 4️⃣ Create a CV
 
-#### Evidence
-Submitted my completed CV on GitHub and Blackboard for PRP370 assessment.  
-- File included: `Resume(ML_KOMANE).pdf`  
-- Shared with lecturer via Blackboard  
+#### 📝 Evidence
+CV created to showcase education, skills, and experience for internships:  
 
-#### Reflection (STAR Technique)
-- **Situation:** Needed to submit my CV professionally for PRP370 and career preparation.  
-- **Task:** Ensure CV was ready, formatted correctly, and submitted on GitHub and Blackboard.  
-- **Action:** Exported CV to PDF, uploaded to GitHub, and submitted portfolio URL on Blackboard.  
-- **Result:** Successfully submitted CV; gained experience in organizing digital application materials and meeting deadlines.
+[📄 Resume (ML KOMANE).pdf](./Resume(ML%20KOMANE).pdf)
+
+#### 💡 Reflection (STAR Technique)
+- **Situation:** Needed a professional CV  
+- **Task:** Design a clear CV highlighting education, skills, and projects  
+- **Action:** Used academic experience, project work, and certificates  
+- **Result:** Polished CV ready for internships  
+
+---
+
+### 5️⃣ CV Submission
+
+#### 📝 Evidence
+- Submitted on GitHub: `Resume(ML_KOMANE).pdf`  
+- Shared via Blackboard for PRP370 assessment  
+
+#### 💡 Reflection (STAR Technique)
+- **Situation:** Needed to submit CV professionally  
+- **Task:** Ensure correct format and submission  
+- **Action:** Exported to PDF, uploaded to GitHub, submitted link on Blackboard  
+- **Result:** Successfully submitted and organized, ready for internship applications
